@@ -45,7 +45,7 @@
 
 ## 📖 Content Source
 
-This guide is compiled from [GenP Guides](https://wiki.dbzer0.com/genp-guides/guide/), translated and simplified for broader accessibility.
+This guide is compiled from [GenP Guides](https://wiki.dbzer0.com/genp-guides/guide/), simplified for broader accessibility.
 
 ## 🛠️ Prerequisites
 
