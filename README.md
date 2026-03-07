@@ -74,11 +74,11 @@ Before starting, make sure you have the following ready:
 
 | Version | Download Source | Notes |
 |------|------|------|
-| v3.7.0 CGP | [Xi Xu's File List](https://file.xi-xu.me/Apps/Windows/GenP.v3.7.0-CGP.zip) | Latest version |
+| Latest version in file list (e.g., v3.8.0 CGP) | [Xi Xu's File List](https://file.xi-xu.me/Apps/Windows/GenP) | Open the file list and download the newest package |
 
 ### 📂 Extract GenP
 
-After downloading, extract `GenP.v3.7.0-CGP.zip` to a dedicated folder:
+After downloading, extract the latest GenP package from the file list above (e.g., `GenP.v3.8.0-CGP.zip`) to a dedicated folder:
 
 - Recommended path example: `D:\GenP`
 - ⚠️ Avoid using paths with non-ASCII characters or special symbols
@@ -132,7 +132,7 @@ After configuring, **completely exit CC**:
 #### 2.1 Launch GenP
 
 1. Navigate to your extracted GenP folder (e.g., `D:\GenP`)
-2. Find the `GenP-v3.7.0.exe` file
+2. Find the GenP executable from the latest package (e.g., `GenP-v3.8.0.exe`)
 3. Right-click and select **"Run as administrator"**
 
 #### 2.2 Configure Options
@@ -191,7 +191,7 @@ After all apps are installed, once again **completely exit CC**:
 
 #### 4.1 Launch GenP
 
-Again, run `GenP-v3.7.0.exe` as **administrator**.
+Again, run the GenP executable from the latest package (e.g., `GenP-v3.8.0.exe`) as **administrator**.
 
 #### 4.2 Configure Options
 
